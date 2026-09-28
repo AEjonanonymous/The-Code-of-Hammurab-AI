@@ -1,6 +1,6 @@
 # <p align="center"> 𒁲 The-Code-of-Hammurab(AI) 𒁲</p>
 
-### <p align="center"><i>A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating.</i></p>
+### <p align="center"><i>A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection.</i></p>
 
 $$Abstract$$
 
@@ -136,7 +136,7 @@ Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmai
 
 ## 📚 Citation
 
-* 📝 `The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating.pdf`
+* 📝 `The Code of Hammurab(AI) - A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating.pdf`
 
 Reed, Jonathan ƒ(n). (2026). The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23005159
 
