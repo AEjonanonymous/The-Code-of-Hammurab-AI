@@ -136,7 +136,7 @@ Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmai
 
 ## 📚 Citation
 
-* 📝 `Improving on Popov - Machine-Certified Absolute Stability for High-Dimensional Lur'e Systems via Lean 4 & Comparator.pdf`
+* 📝 `The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating.pdf`
 
 Reed, Jonathan ƒ(n). (2026). The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23005159
 
