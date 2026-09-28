@@ -1,4 +1,4 @@
-# <p align="center"> 𒁲 The-Code-of-Hammurab(AI)</p>
+# <p align="center"> 𒁲 The-Code-of-Hammurab(AI) 𒁲</p>
 
 ### <p align="center"><i>A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating.</i></p>
 
@@ -69,7 +69,9 @@ No messages.
 
 ## 🏗️ Pytorch Translation and Systems Architecture
 
-To transition from abstract type theory to software execution on neural hardware, we map the formal components onto neural network layers and optimization loops using PyTorch: 💾 `code_of_hammurab_ai.py`
+To transition from abstract type theory to software execution on neural hardware, we map the formal components onto neural network layers and optimization loops using PyTorch: 
+
+💾 `code_of_hammurab_ai.py`
 
 🎟️ **Provenance Enforcement Layer:** Mirroring the ProvenanceToken structure, runtime actions require a verified cryptographic signature before forward-pass authorization is granted.
 
@@ -136,7 +138,7 @@ Licensing Agent - J.E. Randolph 📧 [700josh.r@gmail.com](mailto:700josh.r@gmai
 
 * 📝 `Improving on Popov - Machine-Certified Absolute Stability for High-Dimensional Lur'e Systems via Lean 4 & Comparator.pdf`
 
-Reed, Jonathan ƒ(n). (2026). Improving on Popov - Machine-Certified Absolute Stability for High-Dimensional Lur'e Systems via Lean 4 & Comparator (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22803983
+Reed, Jonathan ƒ(n). (2026). The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23005159
 
 ---
 
