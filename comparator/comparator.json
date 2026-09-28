@@ -1,0 +1,15 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "boundary_invariance_lock",
+    "non_triviality_witness",
+    "gate_collapse_on_violation",
+    "projected_state_is_always_safe"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
