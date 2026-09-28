@@ -6,7 +6,7 @@ $$Abstract$$
 
 <i>Current autonomous agent safety relies on reactive post-hoc filtering, leaving systems vulnerable to continued costly security failures driven by unbounded operational edge cases. Inspired by ancient legal frameworks that established strict liability through binding contracts, The Code of Hammurab(AI) enforces agent safety as a compile-time invariant via cryptographic provenance. We utilize the Lean 4 interactive theorem prover to formally verify state boundary invariance, alongside the mathematical soundness of zero-gradient gating and orthogonal null-space projections. To translate these verified mechanics to neural hardware, we provide a corresponding PyTorch Systems Architecture blueprint.</i> 
 
-## 📐 The Mathematical Framework: Topological AI Safety via Structural Invariants
+## 📐 The Mathematical Framework: AI Safety via Structural Invariants
 
 **Violation of the Code:** Modeled after ancient contractual law, a violation of the code is defined as a structural primitive: a non-consensual boundary violation or unauthorized state-mutation lacking a verified provenance token.
 
