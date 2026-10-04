@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "The Code of Hammurab(AI): A Type-Theoretically Enforced Code of Conduct for Preventing Unauthorized State Mutations in Autonomous Agents via Null-Space Projection and Zero-Gradient Gating."
+version: 1.0.0
+doi: 10.5281/zenodo.23005159
+date-released: 2026-09-28
